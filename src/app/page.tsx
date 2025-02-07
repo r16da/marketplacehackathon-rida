@@ -1,5 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
+import ProductCards from './Products/page';
 
 
 const AsgaardPage = () => {
@@ -103,11 +104,11 @@ const AsgaardPage = () => {
                             <span className="px-4">1</span>
                             <button className="px-3">+</button>
                         </div>
-                       
+
                         <button className="w-[123px] h-[64px] rounded-2xl border border-black mt-4 sm:mt-0 sm:ml-3">
                             Add To Cart
                         </button>
-                    
+
                         <button className="w-52 h-16 bg-transparent text-black rounded-2xl border border-black flex items-center justify-center gap-2 mt-4 sm:mt-0 sm:ml-3">
                             <span>+</span>
                             <span>Compare</span>
@@ -243,10 +244,10 @@ const AsgaardPage = () => {
                     <span className='text-[20px] font-semibold'>Rp 500.000</span>
                 </div>
             </div>
+<ProductCards/>
 
-            
 
-        
+
         </>
     );
 };
