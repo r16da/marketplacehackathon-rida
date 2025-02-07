@@ -127,7 +127,7 @@ Welcome to the repository for my 7-day hackathon project! This README outlines t
 ---
 
 ## 🚩 **Acknowledgments**  
-I would like to thank everyone who supported me during this hackathon journey. Special thanks to [Mentors/Team members, if any] for their guidance and feedback.  
+I would like to thank everyone who supported me during this hackathon journey. 
 
 ---
 
